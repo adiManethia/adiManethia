@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adiManethia Aditya Kumar Manethia
 - 👀 I’m interested in Machine Learning and Deep Learning, Atomistic simulations
-- 🌱 I’m currently masters student of Computational Material Science in Germany
-- 💞️ I’m looking to collaborate on Machine learnig subjcets related to material science
+- 🌱 I’m current master's student pursuing Computational Material Science in Germany
+- 💞️ I’m looking to collaborate on Machine learning subjects related to material science
 - 📫 How to reach me adigit2075.14111998@gmail.com
 - 😄 Pronouns: He/Him
 
