@@ -3,7 +3,7 @@
 - 🌱 I’m current master's student pursuing Computational Material Science in Germany
 - 💞️ I’m looking to collaborate on Machine learning subjects related to material science
 - 📫 How to reach me adigit2075.14111998@gmail.com
-- 😄 Pronouns: He/Him
+
 
 
 <!---
