@@ -2,8 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=100&lines=Hi+👋,+I'm+Aditya" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
-🔭 I'm currently working as student assistant at HZDR, Germany.
+
+
+🔭 Master's student studying Computational material science
+
 🌱 Learning Ml, DL, LLMs
 
 
@@ -35,16 +37,14 @@
   </a>
 </div>
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=adiManethia&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adiManethia&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 
 ## 📈 Contribution Graph
-[![](https://github-readme-activity-graph.vercel.app/graph?username=adiManethia&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adiManethia&bg_color=0d1117&color=2196f3&line=2196f3&point=2196f3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img src="https://github.com/adiManethia/adiManethia/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adiManethia&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=adiManethia&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
