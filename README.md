@@ -41,11 +41,4 @@
 
 
 
-## 📈 Contribution Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adiManethia&bg_color=0d1117&color=2196f3&line=2196f3&point=2196f3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adiManethia&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=adiManethia&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
